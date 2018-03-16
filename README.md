@@ -5,8 +5,8 @@
 
 * Android Device Monitor空白
 
-java 版本太高, 最后选择 1.8.0_144
-[下载地址](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html)
+  * java 版本太高, 最后选择 1.8.0_144
+  * [下载地址](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html)
 
 ```
 # 删除
