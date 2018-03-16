@@ -13,7 +13,8 @@
 
 sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
 sudo rm -fr /Library/PreferencesPanes/JavaControlPanel.prefPane
-sudo rm -fr ~/Library/Application\ Support/Java
+~sudo rm -fr ~/Library/Application\ Support/Java(好像没用....官网的)~
+sudo rm -rf /Library/Java
 
 account: 124073651@qq.com
 password: LLlxl110
